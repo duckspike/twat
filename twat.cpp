@@ -1,6 +1,6 @@
-    #include <iostream>
-    int main() 
-    {
-        std::cout << "twat";
-        return 0;
-    }
+#include <iostream>
+int main() 
+{
+    std::cout << "twat" << std::endl;
+    return 0;
+}
